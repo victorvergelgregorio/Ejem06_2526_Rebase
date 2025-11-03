@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Primera modificacion
+=======
+Primera modificación
+Segunda modificación
+Tercera modificacion
+>>>>>>> 842dac8 (Tercera modificacion)
