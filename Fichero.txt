@@ -1,4 +1,10 @@
 Primera modificación
 Segunda modificación
 Tercera modificacion
+<<<<<<< HEAD
 
+=======
+Cuarta modificación
+Quinta modificación
+Sexta modificacion
+>>>>>>> 34bd473 (Sexta modificacion)
